@@ -1,0 +1,5 @@
+streamlit
+pandas
+sqlite-utils
+langchain-openai
+openai
