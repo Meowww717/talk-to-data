@@ -1,3 +1,7 @@
+## 🔗 Live Demo
+
+👉   https://talk-to-data-6nycmyj85ukhi86ncjpgzd.streamlit.app/
+
 # 📊 SQL Data Analyst Assistant — Talk to Data
 
 An LLM-powered analytics assistant that allows users to explore relational data using natural language instead of SQL.
